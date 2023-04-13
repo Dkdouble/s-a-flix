@@ -7,8 +7,8 @@ import existUser from "hoc/exsitUser.hoc";
 const Index = () => {
   return (
     <Layout
-      title="S-A-flix | Netflix Clone"
-      description="This is a Netflix Clone Application."
+      title="Destinywatch | #1 streaming site"
+      description="This is a free streaming Application."
     >
       <IndexTop />
       <OurStories />
